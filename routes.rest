@@ -1,3 +1,8 @@
+##SHOW SINGLE USER BASED ON THE ID
+GET https://project1-cnxj.onrender.com/users/65a31771f4447cb07484459b
+
 ##SHOW ALL USERS
 GET https://project1-cnxj.onrender.com/users
+
+
 
